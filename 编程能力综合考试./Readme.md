@@ -10,3 +10,8 @@
 - 允许定义全局变量。
 - 未特殊说明，整数均在`int`范围内。
 - 输入输出中，同一行内不同数字均按空格分开，长度也会给出。不会出现必须使用`getline`或者`getchar`的地方。
+
+## 2023-2024学年秋季考试题
+- [markdown版本](https://github.com/David-DHC/MSE-Courses/blob/main/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E7%BB%BC%E5%90%88%E8%80%83%E8%AF%95./%E3%80%8A%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%95%E3%80%8B%E8%AF%95%E9%A2%98.md)。
+
+- [pdf版本](https://github.com/David-DHC/MSE-Courses/blob/main/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E7%BB%BC%E5%90%88%E8%80%83%E8%AF%95./%E3%80%8A%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%95%E3%80%8B%E8%AF%95%E9%A2%98.pdf)。
